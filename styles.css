@@ -64,7 +64,7 @@ article img {
 }
 
 /*Добавление слова New в заголовок*/
-#text-new::before {
+.text-new::before {
     display: inline;
     content: "NEW!";
     color: red;
